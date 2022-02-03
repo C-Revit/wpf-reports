@@ -1,0 +1,28 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+    <PropertyGroup>
+        <OutputType>WinExe</OutputType>
+        <RootNamespace>wpf_reports</RootNamespace>
+        <UseWPF>true</UseWPF>
+        <TargetFramework>net40</TargetFramework>
+    </PropertyGroup>
+
+    <ItemGroup>
+      <Reference Include="System.Data.DataSetExtensions" />
+      <Reference Include="WindowsFormsIntegration" />
+    </ItemGroup>
+
+    <ItemGroup>
+      <PackageReference Include="Microsoft.ReportViewer.Common" Version="10.0.40219.1" />
+      <PackageReference Include="Microsoft.ReportViewer.WinForms" Version="10.0.40219.1" />
+    </ItemGroup>
+
+    <ItemGroup>
+      <Folder Include="Properties\" />
+    </ItemGroup>
+
+    <ItemGroup>
+      <None Include="bin\Debug\net40\Report1.rdlc" />
+    </ItemGroup>
+
+</Project>

@@ -1,0 +1,17 @@
+C:\Users\carlo\OneDrive\Documents\DEVELOP\revit\wpf-reports\wpf-reports\bin\Debug\net46\wpf-reports.exe.config
+C:\Users\carlo\OneDrive\Documents\DEVELOP\revit\wpf-reports\wpf-reports\bin\Debug\net46\wpf-reports.exe
+C:\Users\carlo\OneDrive\Documents\DEVELOP\revit\wpf-reports\wpf-reports\bin\Debug\net46\wpf-reports.pdb
+C:\Users\carlo\OneDrive\Documents\DEVELOP\revit\wpf-reports\wpf-reports\bin\Debug\net46\Microsoft.ReportViewer.WinForms.dll
+C:\Users\carlo\OneDrive\Documents\DEVELOP\revit\wpf-reports\wpf-reports\obj\Debug\net46\wpf-reports.csproj.AssemblyReference.cache
+C:\Users\carlo\OneDrive\Documents\DEVELOP\revit\wpf-reports\wpf-reports\obj\Debug\net46\MainWindow.baml
+C:\Users\carlo\OneDrive\Documents\DEVELOP\revit\wpf-reports\wpf-reports\obj\Debug\net46\MainWindow.g.cs
+C:\Users\carlo\OneDrive\Documents\DEVELOP\revit\wpf-reports\wpf-reports\obj\Debug\net46\App.g.cs
+C:\Users\carlo\OneDrive\Documents\DEVELOP\revit\wpf-reports\wpf-reports\obj\Debug\net46\wpf-reports_MarkupCompile.cache
+C:\Users\carlo\OneDrive\Documents\DEVELOP\revit\wpf-reports\wpf-reports\obj\Debug\net46\wpf-reports.g.resources
+C:\Users\carlo\OneDrive\Documents\DEVELOP\revit\wpf-reports\wpf-reports\obj\Debug\net46\wpf-reports.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\carlo\OneDrive\Documents\DEVELOP\revit\wpf-reports\wpf-reports\obj\Debug\net46\wpf-reports.AssemblyInfoInputs.cache
+C:\Users\carlo\OneDrive\Documents\DEVELOP\revit\wpf-reports\wpf-reports\obj\Debug\net46\wpf-reports.AssemblyInfo.cs
+C:\Users\carlo\OneDrive\Documents\DEVELOP\revit\wpf-reports\wpf-reports\obj\Debug\net46\wpf-reports.csproj.CoreCompileInputs.cache
+C:\Users\carlo\OneDrive\Documents\DEVELOP\revit\wpf-reports\wpf-reports\obj\Debug\net46\wpf-reports.csproj.CopyComplete
+C:\Users\carlo\OneDrive\Documents\DEVELOP\revit\wpf-reports\wpf-reports\obj\Debug\net46\wpf-reports.exe
+C:\Users\carlo\OneDrive\Documents\DEVELOP\revit\wpf-reports\wpf-reports\obj\Debug\net46\wpf-reports.pdb
