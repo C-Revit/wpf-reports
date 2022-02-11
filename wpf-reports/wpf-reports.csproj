@@ -18,11 +18,11 @@
     </ItemGroup>
 
     <ItemGroup>
-      <Folder Include="Properties\" />
+      <None Include="bin\Debug\net40\Report1.rdlc" />
     </ItemGroup>
 
     <ItemGroup>
-      <None Include="bin\Debug\net40\Report1.rdlc" />
+      <Folder Include="Models\" />
     </ItemGroup>
 
 </Project>
