@@ -21,10 +21,15 @@ namespace wpf_reports
             ReportViewer.Reset();
             ReportViewer.LocalReport.DataSources.Clear();
             var dadosRelatorio = new List<DadosRelatorioFuncionario>();
-            dadosRelatorio.Add(new DadosRelatorioFuncionario() { Nome = "André", Sobrenome = "Alves de Lima", Cargo = "Programador" });
-            dadosRelatorio.Add(new DadosRelatorioFuncionario() { Nome = "Fulano", Sobrenome = "da Silva", Cargo = "Gerente" });
-            dadosRelatorio.Add(new DadosRelatorioFuncionario() { Nome = "José", Sobrenome = "da Esquina", Cargo = "Analista" });
-            dadosRelatorio.Add(new DadosRelatorioFuncionario() { Nome = "Maria", Sobrenome = "Souza", Cargo = "Analista" });
+            for (int i = 0; i < 500; i++)
+            {
+                dadosRelatorio.Add(new DadosRelatorioFuncionario() { Nome = "André", Sobrenome = "Alves de Lima", Cargo = "Programador" });
+                dadosRelatorio.Add(new DadosRelatorioFuncionario() { Nome = "Fulano", Sobrenome = "da Silva", Cargo = "Gerente" });
+                dadosRelatorio.Add(new DadosRelatorioFuncionario() { Nome = "José", Sobrenome = "da Esquina", Cargo = "Analista" });
+                dadosRelatorio.Add(new DadosRelatorioFuncionario() { Nome = "Maria", Sobrenome = "Souza", Cargo = "Analista" });
+
+            }
+           
             var generalInfo = new GeneralInfo
                 {Agencia = "123971", Projeto= "Projeto SAP"};
             var bindingSource = new BindingSource();
@@ -37,7 +42,6 @@ namespace wpf_reports
             ReportViewer.LocalReport.ReportEmbeddedResource = "Report1.rdlc";
             ReportViewer.LocalReport.ReportPath = "Report1.rdlc";
             ReportViewer.RefreshReport();
-           
            
         }
     }
